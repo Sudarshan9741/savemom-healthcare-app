@@ -1,4 +1,4 @@
-# Dashboard - Flutter Assignment
+# HR-DASHBOARD
 
 A clean, professional Flutter application demonstrating modern mobile UI/UX with two main modules: Task Dashboard and News Feed. Built with mock data, clean architecture, and Provider state management.
 
